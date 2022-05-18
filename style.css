@@ -1,0 +1,28 @@
+body {
+    background-color: #F9F1F0;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+th {
+    padding: 0px 25px;
+    font-size: 25px;
+    border: 1px solid black;
+    background-color: #F79489;
+
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td {
+    border: 2px solid black;
+    font-size: large;
+    font-weight: bold;
+
+}
